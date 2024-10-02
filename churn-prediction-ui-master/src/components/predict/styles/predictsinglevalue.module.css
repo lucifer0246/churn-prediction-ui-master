@@ -1,0 +1,13 @@
+.inputLabel {
+  font-size: 1.6rem;
+  margin-bottom: 1rem;
+}
+
+.dropdownListItem {
+  font-size: 1.6rem;
+}
+
+.inputField {
+  flex: 1;
+  font-size: 1.6rem;
+}

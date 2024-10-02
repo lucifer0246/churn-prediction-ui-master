@@ -1,0 +1,67 @@
+.authcard {
+  min-height: 48rem;
+  min-width: 42rem;
+  padding: 2.4rem;
+  border-radius: 1.2rem;
+  background-color: #365314;
+}
+
+.cardTitle {
+  font-size: 2.4rem;
+  margin-bottom: 2.4rem;
+  font-weight: 600;
+}
+
+.fromContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  height: 80%;
+}
+
+.inputBox {
+  flex-direction: column;
+  display: flex;
+  gap: 2.6rem;
+  flex: 1;
+  margin-bottom: 2.8rem;
+}
+
+.inputLabel {
+  font-size: 1.6rem;
+  margin-bottom: 0.8rem;
+}
+
+.fromInput {
+  font-size: 1.6rem;
+}
+
+.btnContainer {
+  display: flex;
+  flex-direction: column;
+  gap: 1.8rem;
+}
+
+.btn {
+  font-size: 1.6rem;
+  width: 100%;
+  border-radius: 0.8rem;
+}
+
+.signInLoginLink {
+  margin-left: 1;
+  font-weight: 500;
+}
+
+.signInLoginLink:hover {
+  text-decoration: underline;
+}
+
+.helperText {
+  font-size: 1.2rem;
+}
+.passwordConditionsContainer {
+  font-size: 1rem;
+  display: flex;
+  align-items: center;
+}
